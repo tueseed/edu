@@ -2,8 +2,7 @@
   <div class="col-lg-12">
     <div class="card shadow ">
         <div class="card-body text-center">
-            <span class="card-title" style="font-size:250px;" id=words>---</span>
-            
+            <span class="card-title" style="font-size:250px;" id=words>---</span> 
         </div>
     </div>
   </div>

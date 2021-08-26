@@ -34,7 +34,6 @@
           <a class="navbar-brand text-dark " href="?action=home" style="font-size: 36px;">
           บัญชีคำพื้นฐาน ป.1
           </a>
-
         </div>
       </nav>
     </header>

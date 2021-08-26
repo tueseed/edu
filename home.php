@@ -17,7 +17,7 @@
   
 
   <!--   ปุ่มนี้ เราใช้สำหรับควบคุมการทำงาน การจดจำเสียงพูดและแปลงเป็นข้อความ-->
-  <button class="btn btn-success" id="start_button">กดเพื่อเริ่ม</button> 
+  <!-- <button class="btn btn-success" id="start_button">กดเพื่อเริ่ม</button>  -->
   <button class="btn btn-success ml-2" id="start_button" onclick="rnd_word()">คำต่อไป</button>    
   <!-- <div id="instructions"></div> -->
   </div>

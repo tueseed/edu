@@ -32,7 +32,7 @@
       <nav class="shadow-sm navbar navbar-light shadow" style = "background-color: #fad2e1;">
         <div class="container-fluid">
           <a class="navbar-brand text-dark " href="?action=home" style="font-size: 36px;">
-          บัญชีคำพื้นรฐาน ป.1
+          บัญชีคำพื้นรฐาน ป.1 
           </a>
 
         </div>

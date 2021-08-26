@@ -9,7 +9,6 @@
 </div>
 
 
-
 <div class="row ml-2 mr-2 mt-3">
   <!-- textarea สำหรับใช้แสดง ข้อความที่แปลงจากเสียงพูด-->
   <!-- <textarea id="transcript" name="transcript" cols="50" rows="3"></textarea> -->
